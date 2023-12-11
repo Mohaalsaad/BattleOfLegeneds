@@ -53,10 +53,6 @@ protocol Potion: Item{
     func splash<P: Player>(_ player: P)
 }
 
-
-
-
-
 // 6. Define the `Sword` struct which confirm to `Weapon` protocol
 // - the `effectPoints` should be 10
 
