@@ -86,9 +86,6 @@ struct Axe: Weapon{
     }
 }
 
-
-
-
 // 8. Define the `Knife` struct which confirm to `Weapon` protocol
 // - the `effectPoints` should be 5
 
