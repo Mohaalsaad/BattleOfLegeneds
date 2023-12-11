@@ -102,11 +102,6 @@ struct Knife: Weapon{
     }
 }
 
-
-
-
-
-
 // 9. Define the `Wand` struct which confirm to `Weapon` protocol
 // - the `effectPoints` should be 30
 
