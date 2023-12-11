@@ -43,8 +43,6 @@ protocol Weapon: Item{
 
 
 
-
-
 // 5. Define the `Potion` protocol which confirm to `Item` protocol and with the following requirements:
 // - `effectPoints` property of type `Int`
 // - `splash<P: Player>(_ player: P)` function
