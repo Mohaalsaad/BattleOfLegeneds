@@ -144,9 +144,6 @@ struct Wand: Weapon {
     }
 }
 
-
-
-
 // 10. Define the `HealthPotion` struct which confirm to `Potion` protocol
 // - the `effectPoints` should be 20
 
